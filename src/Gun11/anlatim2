@@ -1,0 +1,6 @@
+İnterview Sorusu :  Implicit ve Explicit
+
+    Implicitli  : Bütün elemanlar için geçerli,Bir kere tanımlanır. (HTML de verilen locator var mı?)
+    Explicit    : Tek bir eleman özel Kriter olarak tanımlanır sadece ilgili elemanda geçerli olur
+
+
